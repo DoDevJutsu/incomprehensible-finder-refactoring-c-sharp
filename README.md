@@ -9,8 +9,8 @@ You job is to refactor the code and make it readable, while keeping the code in 
 
 # How To Start
 
-1. Clone this repository `git clone https://github.com/CodelyTV/incomprehensible-finder-refactoring-kata`
-2. Install all the dependencies using Maven.
+1. Clone this repository `git clone https://github.com/DoDevJutsu/incomprehensible-finder-refactoring-c-sharp.git`
+2. Install all the dependencies.
 3. Run the tests.
 4. Start refactoring! 
 
